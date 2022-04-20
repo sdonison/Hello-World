@@ -2,7 +2,7 @@
 
 This is my simple Hello World program. I used this to learn how all the pieces of my development environment work together. There will be bigger and better things in the future!
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=GtSh3ZB_wKE)
 
 # Development Environment
 
@@ -12,6 +12,5 @@ This code was written in Python. At this point in time, Python is the only codin
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Git](https://git-scm.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
